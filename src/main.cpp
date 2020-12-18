@@ -4,7 +4,7 @@
 * Author: Vasilije Mehandzic
 *
 * File: main.cpp
-* Description: Exercise #2 - Pollin’, pollin’, pollin’ …
+* Description: Exercise #3 - Where in the world is TTGO T-Beam-o?
 * Date: 12/14/2020
 **********************************************************************************/
 
